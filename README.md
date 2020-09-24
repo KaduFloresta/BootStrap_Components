@@ -40,11 +40,11 @@
   
 2. **Utilidades Bootstrap:**
   - Borders.
-  - - Colors
-  - - Border-radius.
-  - - Sizes.
+    - Colors
+    - Border-radius.
+    - Sizes.
   - Images.
-  - - Float.
+    - Float.
   - Picture.
   - Table.
   - Close icon.
