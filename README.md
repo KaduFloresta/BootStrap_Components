@@ -21,7 +21,7 @@
 # HTML - Básico
 
 ## Conteúdo
-1. Componentes Bootstrap:   
+1. **Componentes Bootstrap:**
   - Formulários.
   - Example select.
   - Example multiple select.
@@ -38,13 +38,13 @@
   - Spinners.
   - Sizing.
   
-2. Utilidades Bootstrap:   
+2. **Utilidades Bootstrap:**
   - Borders.
-  - - Colors
-  - - Border-radius.
-  - - Sizes.
+    - Colors
+    - Border-radius.
+    - Sizes.
   - Images.
-  - - Float.
+    - Float.
   - Picture.
   - Table.
   - Close icon.
