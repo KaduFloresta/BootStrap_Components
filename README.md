@@ -23,41 +23,44 @@
 <a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2020</h5> 
 
 ---
+
 # HTML - Básico
 
 ## Conteúdo
 1. **Componentes Bootstrap:**
-  - Formulários.
-  - Example select.
-  - Example multiple select.
-  - Example TextArea.
-  - Example file input.
-  - Badges.
-  - Botões.
-  - Split button.
-  - Checkbox.
-  - Radio.
-  - Inline.
-  - Charset.
-  - DropDown.
-  - Spinners.
-  - Sizing.
+-	[X] Formulários.
+-	[X] Example select.
+-	[X] Example multiple select.
+-	[X] Example TextArea.
+-	[X] Example file input.
+-	[X] Badges.
+-	[X] Botões.
+-	[X] Split button.
+-	[X] Checkbox.
+-	[X] Radio.
+- [X] Inline.
+- [X] Charset.
+- [X] DropDown.
+- [X] Spinners.
+- [X] Sizing.
   
 2. **Utilidades Bootstrap:**
-  - Borders.
+- [X] Borders.
     - Colors
     - Border-radius.
     - Sizes.
-  - Images.
+- [X] Images.
     - Float.
-  - Picture.
-  - Table.
-  - Close icon.
-  - Text colors.
-  - Background color.
-  - Alert.
-  - Additional content.
-  - Embed.
-  - Direction.
+- [X] Picture.
+- [X] Table.
+- [X] Close icon.
+- [X] Text colors.
+- [X] Background color.
+- [X] Alert.
+- [X] Additional content.
+- [X] Embed.
+- [X] Direction.
 
 **DIVIRTA-SE!!!**
+
+---
